@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "sdkVersion": "37.0.0",
+    "orientation": "portrait",
+    "name": "StudyDecks",
+    "description": "app that allows users to study collections of flashcards then take quizzes on them",
+    "slug": "studydecks",
+    "version": "1.0",
+    "ios": {
+     "bundleIdentifier": "org.studydecks.exp"
+    },
+    "android": {
+     "package": "org.studydecks.exp"
+    }
+  }
+}
