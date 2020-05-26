@@ -3,11 +3,21 @@
 
 ## Table of contents
 - [Description](#description)
+- [Screenshots](#screenshots)
 - [How to Run Project](#how-to-run-project)
 - [Tested Platforms](#tested-platforms)
 - [Attribution](#attribution)
 - [Copyright and license](#copyright-and-license)
 
+
+## Screenshots
+DeckList|Add Deck|Deck View|Add Card
+:---:|:---:|:---:|:---:
+<img src='screenshots/DeckList.png' width='200' height='400'>|<img src='screenshots/AddDeck.png' width='200' height='400'>|<img src='screenshots/DeckView.png' width='200' height='400'>|<img src='screenshots/AddCard.png' width='200' height='400'>
+
+Quiz(question)|Quiz(answer)|Score
+:---:|:---:|:---:
+<img src='screenshots/Quiz_Question.png' width='200' height='400'>|<img src='screenshots/Quiz_Answer.png' width='200' height='400'>|<img src='screenshots/Score.png' width='200' height='400'>
 
 ## Description
 - a mobile application (Android or iOS) that allows users to study collections of flashcards. The app will allow users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks. this project is a part of the Udacity's [React Developer Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019).
